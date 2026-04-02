@@ -4,6 +4,7 @@ Requires MatLab Report Generator<br>
 <br>
 Create data reports from raw urovoid data<br>
 **Version History:**<br>
+5.4 - 4/2/2026 updated Excel file Save As format from XLS to XLSX to enable more than 256 columns of data.<br>
 5.3 - 12/17/2025 updated compileDailyVoidSummary to remove nansum and nanmean functions, removing dependency on Statistics and Machine Learning Toolbox.<br>
 5.2 - 11/10/2025 added two new functions (compileDailyVoidSummary and compileVoidsSummary) to sort events by light/dark cycles and day-by-day in Excel Spreadsheet output.  Eliminates need to run separate compilation app. To use these features, select "Compile Light/Dark Cycles in Excel."<br>
 5.1 - 10/15/2025 fixed void summary calculations in new light/dark cycle detection code<br>
