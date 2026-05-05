@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: '"If you use this software, please cite it as below."'
+type: software
+authors:
+  - given-names: Gerald
+    family-names: Herrera
+    email: gmherrer@uvm.edu
+    orcid: 'https://orcid.org/0000-0002-9029-0093'
+    affiliation: University of Vermont
+title: UroVoid Data Analysis Application
+version: '5.4'
+date-released: '2026-04-02'
+identifiers:
+  - type: url
+    value: 'https://github.com/gmherrera/UroVoidAnalysisApp'
+repository-code: 'https://github.com/gmherrera/UroVoidAnalysisApp'
+
